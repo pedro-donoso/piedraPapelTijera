@@ -2,12 +2,12 @@
 puts 'Bienvenido al juego piedra, papel o tijeras '
 print "Elige una opción jugador uno: "
 jugador_uno = gets.chomp.downcase
+puts "El jugador uno eligió #{jugador_uno}"
 
 #Seleccion jugador dos
-puts "---------------------------------------------"
-puts 'Bienvenido al juego piedra, papel o tijeras '
-print "Elige una opción jugador dos: "
-jugador_dos = gets.chomp.downcase
+opciones = ["piedra", "papel", "tijeras"]
+jugador_dos = opciones.sample
+puts "El jugador dos eligió #{jugador_dos}"
 
 #Condición
 if jugador_uno == jugador_dos
