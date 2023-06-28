@@ -1,19 +1,14 @@
-# Ruby on Replit
+# https://replit.com/@odikil/piedraPapelTijera
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
+![tijeras](https://github.com/pedro-donoso/piedraPapelTijera/assets/68760595/1943160c-c597-478a-ba30-443d6db32cc9)
 
-## Running the repl
+#### clic en ``RUN``
 
-Simply hit run! You can edit the run command from the `.replit` file.
+- Juega contra la máquina eligiendo Piedra, Papel o Tijeras
+- tu PC elegira de manera aleatoria su opción
+- se mostrarán las elecciones de ambos jugadores
+- Se avisará quien de los 2 jugadores ganó o si empataron
+- Puedes escribir tu alternativa en Mayusculas y se mostrará en minúsculas
+- Prueba varios intentos hasta ganar. ¡Suerte!
 
-## Installing packages
-
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/guides/getting_started.html).
-
-**Warning: Avoid using `gem install` to add packages.**
-
-Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+  * ESCRITO EN RUBY Y ALOJADO EN REPLIT
